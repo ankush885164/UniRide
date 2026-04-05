@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387853302410",
+    "project_id": "uni-front",
+    "storage_bucket": "uni-front.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387853302410:android:b4b894a2c105723f980b73",
+        "android_client_info": {
+          "package_name": "com.company.uniride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_GOOGLE_API_KEY_HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
