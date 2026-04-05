@@ -1,4 +1,5 @@
 project is in uniride completed folder 
+app is the realease section
 
 # UniRide - Smart Campus Transportation System
 
