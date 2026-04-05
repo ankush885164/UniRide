@@ -1,3 +1,5 @@
+project is in uniride completed folder 
+
 # UniRide - Smart Campus Transportation System
 
 UniRide is a comprehensive transportation management solution designed for university campuses. It synchronizes Admins, Drivers, Conductors, and Passengers (Students/Staff) in real-time to provide a seamless and professional commute experience.
